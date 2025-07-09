@@ -1,17 +1,17 @@
 {
-  "title": "EMERGENCY",
+  "title": "EMERGENCY!",
   "description": "Pairing: Gojo Satoru x Itadori Yuuji",
   "artist": "Kakinomi",
   "author": "Kakinomi",
-  "cover": "Kakinomi", https://melonbooks.akamaized.net/fromagee/user_data/packages/resize_image.php?image=212001354830.jpg
+  "cover": "https://melonbooks.akamaized.net/fromagee/user_data/packages/resize_image.php?image=212001354830.jpg",
   "chapters": {
     "0": {
-      "title": "Oyaji ga Kareshi ni Naru Made Jou",
+      "title": "EMERGENCY!",
       "volume": "1",
       "groups": {
-        "fishtertperson": "/proxy/api/imgchest/chapter/vj4jkjrde78/"
+        "fishtertperson": "/proxy/api/imgchest/chapter/ej7mlrl6q4d/"
       },
-      "last_updated": "1741197626"
+      "last_updated": "1752038659"
     }
   }
 }
