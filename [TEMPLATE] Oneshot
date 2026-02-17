@@ -1,0 +1,17 @@
+{
+  "title": "TITLE",
+  "description": "Pairing: Gojo Satoru x Itadori Yuuji",
+  "artist": "CIRCLE / ARTIST",
+  "author": "CIRCLE / ARTIST",
+  "cover": "COVER LINK",
+  "chapters": {
+    "0": {
+      "title": "CHAPTER TITLE",
+      "volume": "1",
+      "groups": {
+        "CIRCLE / ARTIST": "/proxy/api/imgchest/chapter/CUBARINUMBER/"
+      },
+      "last_updated": "TIMESTAMP"
+    }
+  }
+}
